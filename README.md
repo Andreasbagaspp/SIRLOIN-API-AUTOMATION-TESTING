@@ -1,7 +1,7 @@
 
-# UI Automation Testing SauceDemo
+# SIRLOIN Automation Testing SauceDemo
 
-SauceDemo ini proyek untuk membantu setiap toko untuk menjual produk bisnisnya, dan membantu mengelola barang masuk dan keluar. Banyak toko yang masih menambah/mengurangi stok produk secara manual, oleh karena itu 
+SIRLOIN ini proyek untuk membantu setiap toko untuk menjual produk bisnisnya, dan membantu mengelola barang masuk dan keluar. Banyak toko yang masih menambah/mengurangi stok produk secara manual, oleh karena itu 
 mencoba menangani pengguna untuk berubah dari manual menjadi otomatis dengan menggunakan sistem ini
 
 
